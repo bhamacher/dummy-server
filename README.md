@@ -1,2 +1,2 @@
 # dummy-server
-minimal zera-modulemanager implmentation
+minimal zera-modulemanager implementation
